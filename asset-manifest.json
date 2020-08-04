@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/adnanshahz2018/coursera-react/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/adnanshahz2018/coursera-react/static/js/main.dcd71842.chunk.js",
+    "main.js.map": "/adnanshahz2018/coursera-react/static/js/main.dcd71842.chunk.js.map",
+    "runtime-main.js": "/adnanshahz2018/coursera-react/static/js/runtime-main.1fac0e1d.js",
+    "runtime-main.js.map": "/adnanshahz2018/coursera-react/static/js/runtime-main.1fac0e1d.js.map",
+    "static/css/2.53823a3d.chunk.css": "/adnanshahz2018/coursera-react/static/css/2.53823a3d.chunk.css",
+    "static/js/2.b727848c.chunk.js": "/adnanshahz2018/coursera-react/static/js/2.b727848c.chunk.js",
+    "static/js/2.b727848c.chunk.js.map": "/adnanshahz2018/coursera-react/static/js/2.b727848c.chunk.js.map",
+    "index.html": "/adnanshahz2018/coursera-react/index.html",
+    "precache-manifest.f99f0a7f775988264708f7da17e9db99.js": "/adnanshahz2018/coursera-react/precache-manifest.f99f0a7f775988264708f7da17e9db99.js",
+    "service-worker.js": "/adnanshahz2018/coursera-react/service-worker.js",
+    "static/css/2.53823a3d.chunk.css.map": "/adnanshahz2018/coursera-react/static/css/2.53823a3d.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/adnanshahz2018/coursera-react/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.b727848c.chunk.js.LICENSE.txt": "/adnanshahz2018/coursera-react/static/js/2.b727848c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fac0e1d.js",
+    "static/css/2.53823a3d.chunk.css",
+    "static/js/2.b727848c.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.dcd71842.chunk.js"
+  ]
+}
