@@ -1,9 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Navbar, NavbarBrand} from 'reactstrap';
-import Menu from './components/MenuComponent';
 import { DISHES } from './shared/dishes';
 import React, { Component } from 'react';
 import './App.css';
+import MenuComponent from './components/MenuComponent';
 
 class App extends Component {
   constructor(props) {
@@ -21,7 +21,7 @@ class App extends Component {
               <NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
             </div>
           </Navbar>
-          <Menu dishes={this.state.dishes} />
+          <MenuComponent dishes={this.state.dishes} />
         </div>
     );
   } 
